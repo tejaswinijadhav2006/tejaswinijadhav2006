@@ -1,16 +1,28 @@
 ## Hi there 👋
+# Hi, I'm Tejaswini Jadhav 👋
 
-<!--
-**tejaswinijadhav2006/tejaswinijadhav2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 TY BSc Computer Science Student
 
-Here are some ideas to get you started:
+💻 Skills
+- Java
+- Python
+- HTML
+- CSS
+- SQL
+- C Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Currently Learning
+- Core Java
+- Web Development
+- Data Structures
+
+🚀 Projects
+- Portfolio Website
+- Student Management System
+- Core Java Programs
+
+📫 Connect with me
+- LinkedIn:www.linkedin.com/in/
+tejaswini-jadhav2006
+⭐ Thanks for visiting my GitHub profile!
+
